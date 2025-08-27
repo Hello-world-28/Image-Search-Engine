@@ -1,2 +1,2 @@
 # Image-Search-Engine
-This is a project based on HTML,CSS and JS
+This project is based on HTML,CSS and JS
